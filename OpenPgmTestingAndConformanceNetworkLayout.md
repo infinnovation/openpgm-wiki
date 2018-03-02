@@ -3,7 +3,7 @@ This section describes the network layout necessary to perform PGM protocol comp
 ## Basic Testing ##
 Basic covers the principal operations of sending, receiving, error detection, requesting packet retransmission (NAKs), and  transmission of repair data.
 
-<img src='http://miru.hk/wiki/OpenPGM_testing_layout.png' />
+<img src='img/OpenPGM_testing_layout.png' />
 
 The network layout described covers four hosts:
 
@@ -19,25 +19,25 @@ The diagram suggests the tester as a human operator but it is possible to run as
 <tr><td>
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/Flow_part1.png'><img src='http://miru.hk/wiki/320px-Flow_part1.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a><font size='1'>1: Create transports in both Application and Simulator</font></td>
+<td><a href='img/Flow_part1.png'><img src='img/320px-Flow_part1.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a><font size='1'>1: Create transports in both Application and Simulator</font></td>
 </tr>
 </table>
 </td><td>
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/Flow_part2.png'><img src='http://miru.hk/wiki/320px-Flow_part2.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a><font size='1'>2: Send messages from Application</font></td>
+<td><a href='img/Flow_part2.png'><img src='img/320px-Flow_part2.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a><font size='1'>2: Send messages from Application</font></td>
 </tr>
 </table>
 </td></tr><tr><td>
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/Flow_part3.png'><img src='http://miru.hk/wiki/320px-Flow_part3.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a><font size='1'>3: Send NAK from Simulator</font></td>
+<td><a href='img/Flow_part3.png'><img src='img/320px-Flow_part3.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a><font size='1'>3: Send NAK from Simulator</font></td>
 </tr>
 </table>
 </td><td>
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/Flow_part4.png'><img src='http://miru.hk/wiki/320px-Flow_part4.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a><font size='1'>4: Wait for RDATA data re-transmission from Application</font></td>
+<td><a href='img/Flow_part4.png'><img src='img/320px-Flow_part4.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a><font size='1'>4: Wait for RDATA data re-transmission from Application</font></td>
 </tr>
 </table>
 </td></tr></table>

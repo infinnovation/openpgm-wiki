@@ -14,7 +14,7 @@ Platforms supported by paid contract.
   * [Sun Studio 12u1](OpenPgm3CReferenceBuildLibrarySolarisSunStudio.md) on Solaris 10 on SPARC (64-bit)
 
 ### Untested Platforms ###
-<img src='http://miru.hk/wiki/womm.png' align='right' width='200' height='193' />Functional build but no available test report.
+<img src='img/womm.png' align='right' width='200' height='193' />Functional build but no available test report.
   * [GCC 4.2.1](OpenPgm3CReferenceBuildLibraryFreeBSD.md) on FreeBSD 8.0
   * [GCC 4.2.1](OpenPgm3CReferenceBuildLibraryLinuxMinGW.md) on Microsoft Windows XP, cross-compiled on Ubuntu 9.04 through 10.04 using MinGW.
   * [GCC 4.2.1](OpenPgm3CReferenceBuildLibraryLinuxWine.md) on Wine 1.1.31, cross-compiled on Ubuntu 9.04 through 10.04 using MinGW.

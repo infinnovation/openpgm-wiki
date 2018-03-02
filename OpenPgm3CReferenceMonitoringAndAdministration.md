@@ -28,24 +28,24 @@ The OpenPGM suite provides two optional monitoring and administration interfaces
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/PGMHTTP_-_general_information.png'><img src='http://miru.hk/wiki/320px-PGMHTTP_-_general_information.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>General Information</td>
+<td><a href='img/PGMHTTP_-_general_information.png'><img src='img/320px-PGMHTTP_-_general_information.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>General Information</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/PGMHTTP_-_transports.png'><img src='http://miru.hk/wiki/320px-PGMHTTP_-_transports.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Transports</td>
+<td><a href='img/PGMHTTP_-_transports.png'><img src='img/320px-PGMHTTP_-_transports.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Transports</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/PGMHTTP_-_receive_transport.png'><img src='http://miru.hk/wiki/320px-PGMHTTP_-_receive_transport.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Receive Transports</td>
+<td><a href='img/PGMHTTP_-_receive_transport.png'><img src='img/320px-PGMHTTP_-_receive_transport.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Receive Transports</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/PGMHTTP_-_send_transport.png'><img src='http://miru.hk/wiki/320px-PGMHTTP_-_send_transport.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>One Send Transport</td>
+<td><a href='img/PGMHTTP_-_send_transport.png'><img src='img/320px-PGMHTTP_-_send_transport.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>One Send Transport</td>
 </tr>
 </table>

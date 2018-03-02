@@ -2,8 +2,9 @@ This repository contains wiki pages for the OpenPGM project,
 extracted from the
 [Google Code Archive](https://code.google.com/archive/p/openpgm/wikis)
 for the project.
-Copyright for the pages is unknown but assumed to be suficiently
+Copyright for the pages is unknown but assumed to be sufficiently
 permissive to allow these copies.
+Inline images from miru.hk have been fetched and converted to inline links.
 The variant of Markdown is not quite the same as that used on github,
 so expect some wrinkles.
 

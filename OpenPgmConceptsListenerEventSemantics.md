@@ -2,7 +2,7 @@ The arrival of an inbound message is an important event for most OpenPGM program
 
 Each time the callback function runs, it receives an inbound message as an argument. The callback function must process the message in an appropriate application-specific fashion.
 
-<img src='http://miru.hk/wiki/OpenPGM_listener_events.png' />
+<img src='img/OpenPGM_listener_events.png' />
 
 OpenPGM still processes incoming messages as the listener callback is being executed.  If the incoming rate is faster than the callback handler can handle the message queue will increase until the system is exhausted.
 

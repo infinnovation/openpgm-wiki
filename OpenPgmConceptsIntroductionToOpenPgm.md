@@ -7,6 +7,6 @@ OpenPGM currently defines one language interface based upon the [GLib](http://li
 
 **OpenPGM operating environment**
 
-<img src='http://miru.hk/wiki/OpenPGM_operating_environment.png' />
+<img src='img/OpenPGM_operating_environment.png' />
 
 Any computer can run any number of OpenPGM programs, however restrictions in the PGM protocol mean that a transport cannot be shared between processes.

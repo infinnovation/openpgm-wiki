@@ -9,7 +9,7 @@ The presence of a PGM sender is noted when the first packet with a new TSI is re
 #### SPM Distribution Tree ####
 A PGM distribution tree is defined by the flow of Source Path Messages (SPMs) from a source through network elements to subscribers.  PGM network elements use the SPM information to address returning unicast NAKs directly to the next upstream PGM network toward the source, and thereby insure that NAKs return from a receiver to a source on the reverse of the distribution path for any TSI.
 
-<img src='http://miru.hk/wiki/SPM_distribution_tree.png' />
+<img src='img/SPM_distribution_tree.png' />
 
 A receiving application joining a PGM multicast address will see the existence of a PGM session by its regular SPM broadcast.  If the sender has already transmitted data packets it is considered late joining.
 
@@ -17,7 +17,7 @@ A receiving application joining a PGM multicast address will see the existence o
 #### Late Joining ####
 A new receiving application joining a PGM session already in flow is called late joining.
 
-<img src='http://miru.hk/wiki/Late_joining.png' />
+<img src='img/Late_joining.png' />
 
 The PGM specification defines that the receive window is bound by the first sequence number received.  So in the example RXW\_TRAIL\_INIT is set to 3, that means the receiver is not permitted to request packets with an earlier sequence number.  This can be overridden with the OPT\_JOIN - Late Joining option.
 
@@ -36,7 +36,7 @@ The active list of sessions is maintained as state information of a PGM receiver
 #### OPT\_FIN ####
 Dependent upon the application domain an OPT\_FIN indicates that a source has finished its session.  For example this could indicate the end of a video broadcast.
 
-<img src='http://miru.hk/wiki/SYN_and_FIN.png' />
+<img src='img/SYN_and_FIN.png' />
 
 In order to ensure delivery of session termination the sending transport continues to broadcast SPMs with the OPT\_FIN option until the transport is terminated.
 

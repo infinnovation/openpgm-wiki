@@ -33,7 +33,7 @@ When relying on the underlying network transport for event generation the develo
 Note that the special APIs for synchronous events as multiple file descriptors need to be monitored for correct operation, see the section [Data Triggers](OpenPgmConceptsEvents.md) in _OpenPGM Concepts_ for further details.
 
 ## Receiver Events ##
-<img src='http://miru.hk/wiki/receiver-events.png' />
+<img src='img/receiver-events.png' />
 
 PGM receivers receive three types of events, from left-to-right in the diagram:
   1. Timers due to expiration of receive state, this includes sending NAKs and detecting unrecoverable data loss.
@@ -43,7 +43,7 @@ PGM receivers receive three types of events, from left-to-right in the diagram:
 Note that not all events will cause data to be returned but are necessary to drive the PGM protocol engine.
 
 ## Sender Events ##
-<img src='http://miru.hk/wiki/sender-events.png' />
+<img src='img/sender-events.png' />
 
 PGM senders have more complicated event handling requirements due to reliable delivery.  There are five types of events, from left-to-right in the diagram:
   1. Timer due to transmit rate limit, i.e. how long until there are sufficient tokens to send a new data packet.

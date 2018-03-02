@@ -114,7 +114,7 @@ Note that multicast filtering on the network occurs at the multicast group addre
 ### UDP Encapsulation ###
 When using UDP encapsulation many different ports have to be specified and this can get confusing, there is one set of ports for the UDP layer in addition to the set of ports for PGM.
 
-<img src='http://miru.hk/wiki/Udp_encapsulated_ports.png' />
+<img src='img/Udp_encapsulated_ports.png' />
 
 
 If implementing a system with multiple PGM channels it might be easier to consider fixing the same PGM parameters and altering the UDP parameters for each session, for example:

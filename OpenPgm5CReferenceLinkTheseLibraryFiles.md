@@ -67,37 +67,37 @@ To build the example applications in MSVC use the following screenshots for conf
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc-unicode.png'><img src='http://miru.hk/wiki/320px-msvc-unicode.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Tag source files as Unicode</td>
+<td><a href='img/msvc-unicode.png'><img src='img/320px-msvc-unicode.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Tag source files as Unicode</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc-compile as.png'><img src='http://miru.hk/wiki/320px-msvc-compile as.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Compile as C++ Code</td>
+<td><a href='img/msvc-compile as.png'><img src='img/320px-msvc-compile as.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Compile as C++ Code</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc-includes.png'><img src='http://miru.hk/wiki/320px-msvc-includes.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Additional Include Directories</td>
+<td><a href='img/msvc-includes.png'><img src='img/320px-msvc-includes.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Additional Include Directories</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc-crt.png'><img src='http://miru.hk/wiki/320px-msvc-crt.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Multi-Threaded Runtime Library</td>
+<td><a href='img/msvc-crt.png'><img src='img/320px-msvc-crt.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Multi-Threaded Runtime Library</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc-libpath.png'><img src='http://miru.hk/wiki/320px-msvc-libpath.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Additional Library Directories</td>
+<td><a href='img/msvc-libpath.png'><img src='img/320px-msvc-libpath.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Additional Library Directories</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc-libs.png'><img src='http://miru.hk/wiki/320px-msvc-libs.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Additional Dependencies</td>
+<td><a href='img/msvc-libs.png'><img src='img/320px-msvc-libs.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Additional Dependencies</td>
 </tr>
 </table>
 
@@ -107,18 +107,18 @@ Library dependencies are automagically pulled in through the compilers support f
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc2010-compile as.png'><img src='http://miru.hk/wiki/320px-msvc2010-compile as.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Compile as C++ Code</td>
+<td><a href='img/msvc2010-compile as.png'><img src='img/320px-msvc2010-compile as.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Compile as C++ Code</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc2010-includes.png'><img src='http://miru.hk/wiki/320px-msvc2010-includes.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Additional Include Directories</td>
+<td><a href='img/msvc2010-includes.png'><img src='img/320px-msvc2010-includes.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Additional Include Directories</td>
 </tr>
 </table>
 
 <table cellpadding='5' border='1' cellspacing='0'>
 <tr>
-<td><a href='http://miru.hk/wiki/msvc2010-libpath.png'><img src='http://miru.hk/wiki/320px-msvc2010-libpath.png' /><br /><br /><img src='http://miru.hk/wiki/magnify-clip.png' align='right' /></a>Additional Library Directories</td>
+<td><a href='img/msvc2010-libpath.png'><img src='img/320px-msvc2010-libpath.png' /><br /><br /><img src='img/magnify-clip.png' align='right' /></a>Additional Library Directories</td>
 </tr>
 </table>

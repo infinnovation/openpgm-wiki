@@ -15,7 +15,7 @@ Platforms supported by paid contract.
   * [MSVC 2010](OpenPgm5CReferenceBuildLibraryWindows.md) on Microsoft Windows 7 (32-bit & 64-bit)
 
 ### Untested Platforms ###
-<img src='http://miru.hk/wiki/womm.png' align='right' width='200' height='193' />Functional build but no available test report.
+<img src='img/womm.png' align='right' width='200' height='193' />Functional build but no available test report.
   * GCC 4.2.1 on FreeBSD 8.0
   * GCC 4.2.1 on Microsoft Windows XP, cross-compiled on Ubuntu 9.04 through 10.10 using MinGW.
   * GCC 4.2.1 on Wine 1.1.31, cross-compiled on Ubuntu 9.04 through 10.10 using MinGW.
